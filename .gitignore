@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+kaggle.json
+.vscode/
+*.log
+data/raw/
+data/processed/
+data/teachable_machine/
+data/extra_test/
+data/extra_val/
+data/ewaste_new/
+data/extra_check_dataset_style/

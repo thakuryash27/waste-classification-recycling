@@ -1,0 +1,12 @@
+﻿# Tested with Python 3.12 on Windows
+tensorflow==2.21.0
+h5py
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+tqdm
+streamlit
+pytest

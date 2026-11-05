@@ -1,0 +1,13 @@
+class,train,val,test,total
+battery,661,142,142,945
+biological,689,148,148,985
+brown-glass,425,91,91,607
+cardboard,624,133,134,891
+clothes,3727,799,799,5325
+green-glass,440,95,94,629
+metal,538,116,115,769
+paper,735,157,158,1050
+plastic,606,129,130,865
+shoes,1384,296,297,1977
+trash,488,105,104,697
+white-glass,543,116,116,775
