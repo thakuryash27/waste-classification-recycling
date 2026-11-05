@@ -221,5 +221,4 @@ The e-waste test photos (`data/extra_test/e-waste/`) are not included in this re
 
 - Image model: Google Teachable Machine (https://teachablemachine.withgoogle.com).
 - Dataset: "Garbage Classification" by mostafaabla, Kaggle (12 classes).
-- E-waste images: **(add the source here)**.
 - Built with TensorFlow / Keras, Streamlit, scikit-learn, Pillow, pandas, matplotlib and seaborn.
