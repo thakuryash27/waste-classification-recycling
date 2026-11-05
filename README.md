@@ -213,7 +213,6 @@ The e-waste test photos (`data/extra_test/e-waste/`) are not included in this re
 |---|---|
 | `Teachable Machine file not found` | `keras_model.h5` or `labels.txt` is missing from `models/teachable_machine/` |
 | `Could not load the Teachable Machine model` | The model file is damaged or the TensorFlow / Keras version is different. Use the versions in `requirements.txt` |
-| `Could not read the input as a valid image` | The uploaded file is not a valid image |
 | `No matching distribution found for tensorflow` | Use Python 3.12, not 3.14 |
 
 ---
