@@ -9,7 +9,7 @@ A deep learning web application that classifies a photo of a waste item into one
 | **Project ID** | DL-009 |
 | **Mentor** | Sachin Raghav |
 | **University** | Invertis University |
-| **Team members** |
+**Team members** 
 1. RACHIT CHANDRA - BCS2024127
 2. ABHISHEK DIXIT - BCS2024128
 3. KAMAL YADAV - BCS2024129
@@ -23,7 +23,7 @@ A deep learning web application that classifies a photo of a waste item into one
 11. KARAMJEET KAUR - BCS2024143
 12. MOHD ARSHAD - BCS2024146
 13. AYAN HUSSAIN - BCS2024147
-14. ESHA ARYA - BCS2024148  |
+14. ESHA ARYA - BCS2024148  
 
 ---
 
